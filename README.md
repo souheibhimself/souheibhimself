@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @souheibhimself
-- 👀 I’m interested in ...coding and programming
-- 🌱 I’m currently learning ...C and linux
+- 👀 I’m interested in ... Linux, terminals, security stuff, etc ...
+- 🌱 I’m currently learning .. blackarch, network security...
 - 📫 How to reach me ...+25377159199 that is my number
 
 <!---
